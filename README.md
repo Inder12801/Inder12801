@@ -55,6 +55,6 @@ I'm a passionate and detail-oriented Computer Science student with a focus on cr
 
 - Cricket
 - Music
-  - Podcasts (Check out the [read me file](link-to-readme-file) for my favorite podcasts)
+- Podcasts 
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://linkedin.com/in/your-linkedin-profile) or [Twitter](https://twitter.com/your-twitter-handle). Let's build something amazing together! 🚀
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/inderjeet-singh-613a44203/) or [Twitter](https://twitter.com/inder12801). Let's build something amazing together! 🚀
